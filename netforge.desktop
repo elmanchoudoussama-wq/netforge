@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=NetForge
+Comment=Network lab toolkit — Portal · Capture · Transform · Analyzer
+Exec=PLACEHOLDER_EXEC
+Icon=PLACEHOLDER_ICON
+Terminal=false
+Categories=Network;System;Security;
+StartupNotify=true

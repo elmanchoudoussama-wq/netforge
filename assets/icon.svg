@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="24" fill="#1a1a2e"/>
+  <rect x="16" y="16" width="96" height="96" rx="16" fill="#16213e" stroke="#0f3460" stroke-width="3"/>
+  <text x="64" y="78" font-family="DejaVu Sans, Arial, sans-serif" font-size="56" font-weight="bold" fill="#00ff66" text-anchor="middle">T</text>
+  <circle cx="100" cy="28" r="8" fill="#e94560"/>
+</svg>
