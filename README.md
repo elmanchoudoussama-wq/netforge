@@ -26,10 +26,11 @@ One application. One desktop icon. Runs without typing `sudo` after install.
 
 ---
 
+
 ## Quick Install
 
 ```bash
-git clone https://github.com/YOUR_USER/netforge.git
+git clone https://github.com/elmanchoudoussama-wq/netforge.git
 cd netforge
 bash install.sh
 ```
